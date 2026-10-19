@@ -1,0 +1,6 @@
+@StayAPI_HostAddress = http://localhost:5289
+
+GET {{StayAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
